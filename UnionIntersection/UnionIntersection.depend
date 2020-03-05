@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514140574 source:d:\projects\development\logiciel\c\unionintersection\main.c
+	<stdio.h>
+	<stdlib.h>
+
